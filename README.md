@@ -19,6 +19,7 @@ The idea is to find the best and easiest way possible to automate some tasks rel
 - Organizing Files in your computer
 - Cleaning up your email inbox and folders
 - Bringing up needed documentation that is in the deeps of Sharepoint/Drive/Git/Hell/One note
+- Having a Pop Up with instructions according to your pendings and day
 
 This being developed, the final stage of this project or final round per iteration will be about how to share this information with co-workers and make sure everyone has the same updated information from this automated scripts in Python, Power Shell, Dark magic or wathever.
 
